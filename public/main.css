@@ -1,0 +1,10 @@
+.formContainer {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin: 0;
+  transform: translate(-50%, -50%);
+  background-color: rgb(223, 223, 223);
+  padding: 10px;
+  border-radius: 5px;
+}
